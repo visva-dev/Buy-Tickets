@@ -5,3 +5,4 @@ const total = document.getElementById('total');
 const movieSelect = document.getElementById('movie');
 
 const ticketPrice = +movieSelect.nodeValue;
+const ticketPrice = +movieSelect.nodeValue;
